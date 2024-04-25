@@ -100,7 +100,7 @@ header{
     padding: 8px 15px;
     background:#FF0000;
     border-radius: 30px;
-    color:black;
+    color:whitesmoke;
 }
 
 .menu-btn{
@@ -387,7 +387,7 @@ textarea{
     border:none;
     outline: none;
     border-radius: 50px;
-    background: #49497e;    
+    background: #FF0000;    
     color:#fff;
     text-transform: uppercase;
     padding: 10px 0;
