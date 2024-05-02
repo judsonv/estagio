@@ -3,7 +3,7 @@ var listaProdutos = [[0,'Microfone','microfone.jpg','E se você curte fazer uma 
 [2,'Fone','fone.jpg','Nós temos os melhores fones com redução de ruído que você pode imaginar...',false,'6,00'],
 [3,'Kit games','kit.jpg','E se você joga que tal aproveitar aquele kit gamer de alta qualidade...',false,'10,52'],
 [4,'Monitor','monitor.jpg','Os nossos monitores propõem um jogo ainda melhor...',false,'0,85'],
-[5,'Mouse','mouse2.jpg','E ainda temos uma linha de mouses gamer fenomenais, para deixar o seu setup full...',false,'0,85']]
+[5,'Mouse','mouse.jpg','E ainda temos uma linha de mouses gamer fenomenais, para deixar o seu setup full...',false,'0,85']]
 
 
 var carrinho = [];
