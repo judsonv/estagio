@@ -2,7 +2,7 @@ var listaProdutos = [[0,'Microfone','microfone.jpg','E se você curte fazer uma 
 [1,'Teclado','teclado.jpg','Os melhores teclados para um gamer...',false,'5,55'],
 [2,'Fone','fone.jpg','Nós temos os melhores fones com redução de ruído que você pode imaginar...',false,'6,00'],
 [3,'Kit games','kit.jpg','E se você joga que tal aproveitar aquele kit gamer de alta qualidade...',false,'10,52'],
-[4,'Figo','figo.jpg','O figo da quitanda é especial! Estamos te esperando...',false,'0,85'],
+[4,'Monitor','monitor.jpg','Os nossos monitores propõem um jogo ainda melhor...',false,'0,85'],
 [5,'Macarrão','macarrao.jpg','O macarrão da quitanda é especial! Estamos te esperando...',false,'0,85']]
 
 
