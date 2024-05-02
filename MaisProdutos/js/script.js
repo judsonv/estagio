@@ -1,4 +1,4 @@
-var listaProdutos = [[0,'Banana','bananas.jpg','A banana da quitanda é especial! Estamos te esperando...',false,'3,44'],
+var listaProdutos = [[0,'Microfone','microfone.jpeg','E se você curte fazer uma livezinha, mic pra você...',false,'3,44'],
 [1,'Teclado','teclado.jpg','Os melhores teclados para um gamer...',false,'5,55'],
 [2,'Fone','fone.jpg','Nós temos os melhores fones com redução de ruído que você pode imaginar...',false,'6,00'],
 [3,'Kit games','kit.jpg','E se você joga que tal aproveitar aquele kit gamer de alta qualidade...',false,'10,52'],
