@@ -15,7 +15,7 @@ function MontarCarrinho(){
         titulo +='<h2 class ="Titulo" data-text="Carrinho">Carrinho pronto....</h2>'       
         for(var i = 0; i < caixa.length; i++){   
             conteudo += '<div class="card">';
-            conteudo += `<img src="img/${caixa[i][4]}" class="photo">`;
+            conteudo += `<img src="img/${caixa[i][2]}" class="photo">`;
             conteudo += '<div class="legenda">';
             conteudo += `<h2>${caixa[i][1]}</h2>`;
             conteudo += caixa[i][3];
