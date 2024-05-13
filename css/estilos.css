@@ -85,9 +85,10 @@ header{
 .line{
     width: 150px;
     height: 4px;
-    background: #10101b;
+    background: #d43d57;
     margin: 10px auto;
     border-radius: 5px;
+    text-align: center;
 }
 
 .header-content h1{
