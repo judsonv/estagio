@@ -86,9 +86,9 @@ header{
     width: 150px;
     height: 4px;
     background: #d43d57;
-    margin: 10px auto;
-    border-radius: 5px;
+   
     text-align: center;
+
 }
 
 .header-content h1{
