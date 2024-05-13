@@ -194,6 +194,10 @@ p{
     margin-top: 40px;    
 }
 
+.plans{
+    text-justify: center;
+    justify-content: center;
+}
 /*planos*/
 .card2 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
