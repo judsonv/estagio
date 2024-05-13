@@ -89,6 +89,7 @@ header{
     margin: 10px auto;
     border-radius: 5px;
     text-align: center;
+    display: flex;
 
 }
 
