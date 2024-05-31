@@ -218,6 +218,7 @@ body {
     justify-content: center;
     color:whitesmoke;
     margin-bottom: 20px;
+    justify-content: space-between;
 }
 /*planos*/
 .card2 {
