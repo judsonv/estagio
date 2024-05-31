@@ -227,6 +227,7 @@ body {
     margin: auto;
     text-align: center;
     font-family: arial;
+    justify-content: space-between;
   }
   
   .price {
@@ -257,6 +258,7 @@ body {
     margin: auto;
     text-align: center;
     font-family: arial;
+    justify-content: space-between;
   }
   
   .price {
@@ -274,6 +276,7 @@ body {
     cursor: pointer;
     width: 100%;
     font-size: 18px;
+    justify-content: space-between;
   }
   
   .card3 button:hover {
@@ -285,6 +288,7 @@ body {
     max-width: 300px;
     margin: auto;
     text-align: center;
+    justify-content: space-between;
     font-family: arial;
   }
   
@@ -315,6 +319,7 @@ body {
     margin: auto;
     text-align: center;
     font-family: arial;
+    justify-content: space-between;
   }
   
   .price {
@@ -332,6 +337,7 @@ body {
     cursor: pointer;
     width: 100%;
     font-size: 18px;
+    justify-content: space-between;
   }
   
   .card5 button:hover {
