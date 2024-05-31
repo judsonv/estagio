@@ -211,8 +211,10 @@ body {
 .card button:hover {
     background-color: #0056b3;
 }
-.p{    color: whitesmoke;
+.quanti{ 
+     color: whitesmoke;
     font-size: 22px;
+
 }
 
 .plans{
