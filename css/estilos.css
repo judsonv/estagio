@@ -183,6 +183,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: bottom 20px;
 }
 .card:last-child {
     margin-right: 0; /* Remover o espaço do último card */
