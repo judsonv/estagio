@@ -220,6 +220,13 @@ body {
     margin-bottom: 20px;
     justify-content: space-between;
 }
+
+.plans h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color:#000;
+}
+
 /*planos*/
 .card2 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
