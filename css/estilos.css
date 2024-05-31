@@ -184,6 +184,7 @@ body {
     padding: 20px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     margin: bottom 20px;
+    justify-content: space-between;
 }
 .card:last-child {
     margin-right: 0; /* Remover o espaço do último card */
